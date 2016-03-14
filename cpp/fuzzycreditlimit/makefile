@@ -1,6 +1,6 @@
 #------------------------------------------------------------------------------
 
-SOURCE=fuzzycreditlimit.cpp
+SOURCE=fuzzycreditlimit.cpp fuzzymembership.cpp
 MYPROGRAM=fuzzycreditlimit
 MYINCLUDES=/home/scale/g++Projects/gLib/
 
